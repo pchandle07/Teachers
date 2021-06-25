@@ -1,0 +1,108 @@
+* {
+    background-color: rgb(240, 240, 240);
+}
+
+.mainnav li {
+    padding: 10px;
+}
+
+.nav-item {
+    font-weight: bold;
+    color: black;
+}
+
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.social li {
+    padding: 10px;
+    font-size: 20px;
+}
+
+.fa {
+    text-decoration: none;
+    color: black;
+}
+
+.fa:hover {
+    color: red;
+}
+
+.hash {
+    color: gray;
+    transform: rotate(-30deg);
+    position: relative;
+    top: -210px;
+    right: 50px;
+    background: none;
+    opacity: 60%;
+}
+
+img {
+    border-radius: 50%;
+    background-color: red;
+    position: relative;
+    top: -430px;
+    right: -100px;
+    filter: grayscale(100%);
+}
+
+.main {
+    padding-top: 50px;
+}
+
+.row h1 {
+    font-weight: bold;
+}
+
+.fas {
+    color: red;
+    position: absolute;
+    background-color: rgb(235, 234, 233);
+    padding: 8px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px 5px gainsboro;
+}
+
+.fa-drum {
+    top: 13%;
+}
+
+.fa-music {
+    top: 19%;
+}
+
+.fa-guitar {
+    top: 26%;
+}
+
+.fa-microphone {
+    top: 32%;
+}
+
+.btndiv {
+    width: 75%;
+    text-align: center;
+}
+
+.btn1 {
+    padding: 13px 30px;
+    text-align: center;
+    border-radius: 25px;
+    font-weight: bold;
+}
+
+.btn2 {
+    padding: 15px 30px;
+    text-align: center;
+    border-radius: 25px;
+    border: none;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
